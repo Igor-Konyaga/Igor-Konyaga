@@ -45,7 +45,7 @@ and I am always ready for difficult tasks.
 
 
 ## Github Stats  
-<table><tr><td valign="top">
+<table><tr><td valign="top"  width="100%">
 
 <img src="https://github-readme-stats.vercel.app/api?username=rishavanand&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
 
@@ -53,5 +53,5 @@ and I am always ready for difficult tasks.
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishavanand&hide_border=true&layout=compact" align="left" style="width: 100%" />
 
-</td></tr></table>  
+</td></tr></table>      
 
