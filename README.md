@@ -1,5 +1,6 @@
 ## Hey 👋, I'm Ihor Konyaga!  
-  
+
+  <br/>  
 
 <a href="https://github.com/https://github.com/Igor-Konyaga" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
@@ -9,8 +10,6 @@
 </a>  
   
 
-
-
 ### 📌 About Me  
 I am a front-end developer with good
 knowledge of HTML, CSS, JavaScript, TypeScript,
@@ -19,9 +18,7 @@ find a way to solve them. I learn quickly, I like to
 improve my skills, I am purposeful and resourceful,
 and I am always ready for difficult tasks.
   
-
 <br/>  
-
 
 ## Languages and Tools  
 <div align="center">  
@@ -58,18 +55,3 @@ and I am always ready for difficult tasks.
 
 </td></tr></table>  
 
-<br/>  
-
-  
-
-<br/>  
-
-  
-
-<br/>  
-
-
-<br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
