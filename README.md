@@ -1,6 +1,5 @@
 
 <div align="center">
-<img src="" align="center" style="width: 100%" />
 </div>  
   
 
@@ -77,7 +76,6 @@ I am a passionate front-end developer with expertise in HTML, CSS, SCSS, JavaScr
 <br/>  
 
 
-## Recent Blog Posts  
   
 
 <br/>  
