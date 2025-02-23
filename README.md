@@ -51,8 +51,6 @@ I am a passionate front-end developer with expertise in HTML, CSS, SCSS, JavaScr
 
 
 
-</td></tr></table>  
-
 <br/>  
 
 
@@ -89,7 +87,4 @@ I am a passionate front-end developer with expertise in HTML, CSS, SCSS, JavaScr
 <br/>  
 
 
-<br />
 
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
