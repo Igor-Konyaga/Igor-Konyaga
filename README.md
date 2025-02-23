@@ -1,17 +1,3 @@
-<p align="left">
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer" style="margin-right: 10px;">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" />
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer" style="margin-right: 10px;">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" />
-  </a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer" style="margin-right: 10px;">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" />
-  </a>
-  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer" style="margin-right: 10px;">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/gnubash.svg" width="36" height="36" alt="GNU Bash" />
-  </a>
-  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer" style="margin-right: 10px;">
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Ihor Konyaga
 ====================================================================================================================================
 
@@ -34,6 +20,4 @@ I am a front-end developer with good knowledge of HTML, CSS, JavaScript, TypeScr
 
 <a href="http://www.github.com/Igor-Konyaga"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Igor-Konyaga&stroke=ffffff&background=1c1917&ring=ffffff&fire=ffffff&currStreakNum=ffffff&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<a href="https://github.com/Igor-Konyaga" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Igor-Konyaga&langs_count=10&title_color=ffffff&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-</p>
-
+<a href="https://github.com/Igor-Konyaga" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Igor-Konyaga&langs_count=10&title_color=ffffff&text_color=ffffff&icon_color=0891b2&bg_co
