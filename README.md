@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Ihor Konyaga
 ====================================================================================================================================
 
-I am a front-end developer with strong knowledge of HTML, CSS, SCSS, JavaScript, TypeScript, React, React Native, Next, and backend technologies like Node and Express.<br/>
+I am a front-end developer with strong knowledge of HTML, CSS, SCSS, JavaScript, TypeScript, React, React Native, Next, Node, Express.<br/>
 I have a problem-solving mindset, learn quickly, and continuously strive to improve my skills. I am goal-oriented, resourceful, and always ready to take on challenging tasks.
 
 ### Skills
